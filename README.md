@@ -16,6 +16,7 @@ This webpage is made from simple using table (tr, td) in html.
 
 ## Built With
 
+- Table
 - HTML, CSS
 - Stylelint, Web Hint, Lighthouse
 
