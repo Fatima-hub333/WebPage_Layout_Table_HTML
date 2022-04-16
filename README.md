@@ -12,7 +12,7 @@ This webpage is made from simple using table (tr, td) in html.
 <!-- ![screenshot](images/Microverse_portfolio.png) -->
 
 ## [LiveDemo] 
-(https://fatima-hub333.github.io/Website_Mobile_Version_Repeated/)
+( https://fatima-hub333.github.io/WebPage_Layout_Table_HTML/)
 
 ## Built With
 
