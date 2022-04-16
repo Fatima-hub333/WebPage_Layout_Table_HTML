@@ -9,7 +9,7 @@
 
 This webpage is made from simple using table (tr, td) in html.
 
-<!-- ![screenshot](images/Table_Webpage_Layout.png) -->
+![screenshot](images/Table_Webpage_Layout.png)
 
 ## [LiveDemo] 
 ( https://fatima-hub333.github.io/WebPage_Layout_Table_HTML/)
